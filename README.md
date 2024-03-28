@@ -21,3 +21,8 @@ The program terminates after displaying the result of the conversion.<br>
 
 Overall, this program provides a versatile tool for converting numbers between different numerical systems.<br>
 </p>
+
+<h2 align="left">Open terminal and run</h2>
+<h3>
+- Any C++ compiler : <a href="https://www.programiz.com/cpp-programming/online-compiler/">Run Calculator</a>
+</h3>
