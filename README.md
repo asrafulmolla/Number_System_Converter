@@ -24,5 +24,5 @@ Overall, this program provides a versatile tool for converting numbers between d
 
 <h2 align="left">Open terminal and run</h2>
 <h3>
-- Any C++ compiler : <a href="https://www.programiz.com/cpp-programming/online-compiler/">Run Calculator</a>
+- Copy the <a href="https://github.com/asrafulmolla/Number_System_Converter/blob/main/Number_System_Converter.cpp"> code </a> and run it in any C++ compiler : <a href="https://www.programiz.com/cpp-programming/online-compiler/">Run Calculator</a>
 </h3>
